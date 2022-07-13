@@ -1,0 +1,3 @@
+this is secon app (second step in klee-kandinsky) in which we want to rank subjects' klee_differences and make two groups:
+Grosup1: subjects with klee_differences lower than median. 
+Group2: subjects with klee_differences hieher than median. 
